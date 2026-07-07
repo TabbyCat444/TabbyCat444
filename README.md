@@ -1,5 +1,5 @@
 <p align="center">
-Hello, I graduated wtih my Bachelor's degree in Computer Science in May of 2025. I am currently upskilling, fleshing out a portfolio, and working on beginner steps for launching a small business.
+Hello, I graduated wtih my Bachelor's degree in Computer Science in May of 2025. I am currently upskilling, fleshing out a portfolio, and entering the tech work force. 
 </p>
 
 
