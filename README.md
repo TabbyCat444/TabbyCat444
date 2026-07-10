@@ -10,4 +10,4 @@ Hello, I graduated wtih my Bachelor's degree in Computer Science in May of 2025.
 - ⚡ Fun fact: I absolutely adore BIG dogs. I currently have a great dane/lab named Chaos!
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=TabbyCat444&theme=jolly&show_icons=true&count_private=true)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=TabbyCat444&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=midnight-purple)](https://github-stats-extended.vercel.app/api?username=TabbyCat444&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=midnight-purple)
